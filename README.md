@@ -1,6 +1,6 @@
 # LING185A
 
-These are my solutions to the homeworks and projects assigned in CS 32 in Winter of 2019.
+These are my solutions to the homeworks and projects assigned in LING 185A (Winter 2021)
 
 | Assignment | Score |
 | ---------- | ----- |
